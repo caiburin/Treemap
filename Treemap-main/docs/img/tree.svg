@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="144.75 107 295.5 214" width="295.5" height="214">
+  <defs/>
+  <g id="Tree" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Tree</title>
+    <g id="Tree_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_5">
+        <ellipse cx="290.25" cy="125.4375" rx="19.1250305598738" ry="17.4375278634143" fill="white"/>
+        <ellipse cx="290.25" cy="125.4375" rx="19.1250305598738" ry="17.4375278634143" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(279.95 116.2135)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="1.4040002" y="15" xml:space="preserve">26</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <ellipse cx="205.875" cy="234.5625" rx="19.1250305598738" ry="17.4375278634143" fill="white"/>
+        <ellipse cx="205.875" cy="234.5625" rx="19.1250305598738" ry="17.4375278634143" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(195.575 225.3385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="1.4040002" y="15" xml:space="preserve">12</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="146.25" y="284.625" width="38.25" height="34.875" fill="white"/>
+        <rect x="146.25" y="284.625" width="38.25" height="34.875" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(151.25 292.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="9.677" y="15" xml:space="preserve">3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="209.25" y="284.625" width="38.25" height="34.875" fill="white"/>
+        <rect x="209.25" y="284.625" width="38.25" height="34.875" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(214.25 292.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="9.677" y="15" xml:space="preserve">9</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <rect x="271.125" y="284.625" width="38.25" height="34.875" fill="white"/>
+        <rect x="271.125" y="284.625" width="38.25" height="34.875" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(276.125 292.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="9.677" y="15" xml:space="preserve">2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="335.25" y="284.625" width="38.25" height="34.875" fill="white"/>
+        <rect x="335.25" y="284.625" width="38.25" height="34.875" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(340.25 292.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="9.677" y="15" xml:space="preserve">4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="400.5" y="284.625" width="38.25" height="34.875" fill="white"/>
+        <rect x="400.5" y="284.625" width="38.25" height="34.875" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(405.5 292.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="9.677" y="15" xml:space="preserve">8</tspan>
+        </text>
+      </g>
+      <g id="Line_12">
+        <line x1="196.1778" y1="250.72452" x2="176.7375" y2="283.125" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_13">
+        <line x1="211.7541" y1="252.19978" x2="222.0625" y2="283.125" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_14">
+        <line x1="278.61476" y1="140.48574" x2="217.51024" y2="219.51426" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_15">
+        <ellipse cx="329.625" cy="234.5625" rx="19.1250305598738" ry="17.4375278634143" fill="white"/>
+        <ellipse cx="329.625" cy="234.5625" rx="19.1250305598738" ry="17.4375278634143" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(319.325 225.3385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="5.852" y="15" xml:space="preserve">6</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <ellipse cx="376.875" cy="181.6875" rx="19.1250305598737" ry="17.4375278634143" fill="white"/>
+        <ellipse cx="376.875" cy="181.6875" rx="19.1250305598737" ry="17.4375278634143" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(366.575 172.4635)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="1.4040002" y="15" xml:space="preserve">14</tspan>
+        </text>
+      </g>
+      <g id="Line_17">
+        <line x1="306.67246" y1="136.10144" x2="360.45254" y2="171.02356" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_18">
+        <line x1="364.12487" y1="195.9555" x2="342.37513" y2="220.2945" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_19">
+        <line x1="320.13662" y1="250.8283" x2="301.29688" y2="283.125" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_20">
+        <line x1="336.035" y1="252.04433" x2="347.43125" y2="283.125" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_21">
+        <line x1="383.103" y1="199.2243" x2="412.89953" y2="283.125" stroke="#9437ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

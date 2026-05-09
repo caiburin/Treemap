@@ -1,0 +1,167 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+    }
+    .tile_label_white { fill: white; }
+    .tile_label_black { fill: black;  }
+    .group_outline { stroke: red; fill: none; stroke-width: 4; }
+   </style>
+   </defs>
+<rect x="4" y="518" 
+         width="474"  height="278"
+         rx="10"  fill="#70ee6b" 
+         class="tile"/>
+      <text x="241"  y="657"
+         class="tile_label_black" > Data Science: 33 </text>
+      <rect x="486" y="518" 
+         width="153"  height="278"
+         rx="10"  fill="#b3e33c" 
+         class="tile"/>
+      <text x="562"  y="657"
+         class="tile_label_black" > MACS: 11 </text>
+      <rect x="4" y="4" 
+         width="635"  height="506"
+         rx="10"  fill="#5d0a03" 
+         class="tile"/>
+      <text x="321"  y="257"
+         class="tile_label_white" > Computer Science: 79 </text>
+      <rect x="2" y="2" 
+         width="639"  height="796"
+         rx="10"  fill="None" 
+         class="group_outline"/>
+      <rect x="2" y="2" 
+         width="639"  height="796"
+         rx="10"  fill="None" 
+         class="group_outline"/>
+      <rect x="647" y="773" 
+         width="125"  height="23"
+         rx="10"  fill="#1d3045" 
+         class="tile"/>
+      <text x="709"  y="784"
+         class="tile_label_white" > Acct: 1 </text>
+      <rect x="647" y="617" 
+         width="125"  height="148"
+         rx="10"  fill="#af83d2" 
+         class="tile"/>
+      <text x="709"  y="691"
+         class="tile_label_black" > Bus: 5 </text>
+      <rect x="780" y="617" 
+         width="216"  height="179"
+         rx="10"  fill="#ba9246" 
+         class="tile"/>
+      <text x="888"  y="706"
+         class="tile_label_black" > Pre-Bus: 10 </text>
+      <rect x="645" y="615" 
+         width="353"  height="183"
+         rx="10"  fill="None" 
+         class="group_outline"/>
+      <rect x="645" y="615" 
+         width="353"  height="183"
+         rx="10"  fill="None" 
+         class="group_outline"/>
+      <rect x="647" y="458" 
+         width="97"  height="151"
+         rx="10"  fill="#dbc9ed" 
+         class="tile"/>
+      <text x="695"  y="533"
+         class="tile_label_black" > Math: 4 </text>
+      <rect x="752" y="458" 
+         width="98"  height="151"
+         rx="10"  fill="#9796ea" 
+         class="tile"/>
+      <text x="801"  y="533"
+         class="tile_label_black" > Multi: 4 </text>
+      <rect x="647" y="299" 
+         width="203"  height="151"
+         rx="10"  fill="#672b9d" 
+         class="tile"/>
+      <text x="748"  y="374"
+         class="tile_label_white" > Psy: 8 </text>
+      <rect x="858" y="473" 
+         width="138"  height="136"
+         rx="10"  fill="#33aab0" 
+         class="tile"/>
+      <text x="927"  y="541"
+         class="tile_label_black" > Phys: 5 </text>
+      <rect x="858" y="386" 
+         width="138"  height="79"
+         rx="10"  fill="#402d0c" 
+         class="tile"/>
+      <text x="927"  y="425"
+         class="tile_label_white" > Bio: 3 </text>
+      <rect x="858" y="299" 
+         width="89"  height="79"
+         rx="10"  fill="#caca0b" 
+         class="tile"/>
+      <text x="902"  y="338"
+         class="tile_label_black" > Neuro: 2 </text>
+      <rect x="955" y="299" 
+         width="41"  height="79"
+         rx="10"  fill="#f0d9d0" 
+         class="tile"/>
+      <text x="975"  y="338"
+         class="tile_label_black" > MBi: 1 </text>
+      <rect x="645" y="297" 
+         width="353"  height="314"
+         rx="10"  fill="None" 
+         class="group_outline"/>
+      <rect x="645" y="297" 
+         width="353"  height="314"
+         rx="10"  fill="None" 
+         class="group_outline"/>
+      <rect x="647" y="195" 
+         width="113"  height="96"
+         rx="10"  fill="#8a2a80" 
+         class="tile"/>
+      <text x="703"  y="243"
+         class="tile_label_white" > Art: 3 </text>
+      <rect x="768" y="195" 
+         width="113"  height="96"
+         rx="10"  fill="#ccc083" 
+         class="tile"/>
+      <text x="824"  y="243"
+         class="tile_label_black" > Other: 3 </text>
+      <rect x="647" y="4" 
+         width="234"  height="183"
+         rx="10"  fill="#0cea1f" 
+         class="tile"/>
+      <text x="764"  y="95"
+         class="tile_label_black" > Exploring: 11 </text>
+      <rect x="889" y="189" 
+         width="107"  height="102"
+         rx="10"  fill="#fb712c" 
+         class="tile"/>
+      <text x="942"  y="240"
+         class="tile_label_black" > Poli: 3 </text>
+      <rect x="889" y="152" 
+         width="107"  height="29"
+         rx="10"  fill="#9afed4" 
+         class="tile"/>
+      <text x="942"  y="166"
+         class="tile_label_black" > SDS: 1 </text>
+      <rect x="889" y="78" 
+         width="107"  height="66"
+         rx="10"  fill="#c4d197" 
+         class="tile"/>
+      <text x="942"  y="111"
+         class="tile_label_black" > EC: 2 </text>
+      <rect x="889" y="4" 
+         width="107"  height="66"
+         rx="10"  fill="#17dd06" 
+         class="tile"/>
+      <text x="942"  y="37"
+         class="tile_label_black" > Ling: 2 </text>
+      <rect x="887" y="2" 
+         width="111"  height="291"
+         rx="10"  fill="None" 
+         class="group_outline"/>
+      <rect x="887" y="2" 
+         width="111"  height="291"
+         rx="10"  fill="None" 
+         class="group_outline"/>
+      </svg>

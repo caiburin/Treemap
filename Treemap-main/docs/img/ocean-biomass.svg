@@ -1,0 +1,72 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+            white-space: pre-wrap; 
+    }
+    tspan { white-space: pre-wrap; }
+    .tile_label_white { fill: white;  white-space: pre-wrap; }
+    .tile_label_black { fill: black;   white-space: pre-wrap; }
+    .group_outline { stroke: red; fill: white; stroke-width: 1; }
+    .group_outline:hover { fill: red; }
+   </style>
+   </defs>
+<rect x="4" y="4" 
+         width="157"  height="1"
+         rx="10"  fill="#a79532" 
+         class="tile"/>
+      <text x="82"  y="4"
+         class="tile_label_black" ><tspan>viruses</tspan><br /><tspan x="82" dy="1em">0.03</tspan></text>
+      <g class="group">
+<title>prokaryotes</title>
+        <rect x="2" y="11" 
+        width="161"  height="587"
+        rx="5"  
+        class="group_outline" />
+        <rect x="4" y="13" 
+         width="157"  height="484"
+         rx="10"  fill="#6ea501" 
+         class="tile"/>
+      <text x="82"  y="255"
+         class="tile_label_black" ><tspan>bacteria</tspan><br /><tspan x="82" dy="1em">1.5</tspan></text>
+      <rect x="4" y="505" 
+         width="157"  height="91"
+         rx="10"  fill="#6ea501" 
+         class="tile"/>
+      <text x="82"  y="550"
+         class="tile_label_black" ><tspan>archaea</tspan><br /><tspan x="82" dy="1em">0.3</tspan></text>
+      </g><g class="group">
+<title>eukaryotes</title>
+        <rect x="167" y="2" 
+        width="431"  height="596"
+        rx="5"  
+        class="group_outline" />
+        <rect x="169" y="4" 
+         width="427"  height="242"
+         rx="10"  fill="#5b3b78" 
+         class="tile"/>
+      <text x="382"  y="125"
+         class="tile_label_white" ><tspan>protists</tspan><br /><tspan x="382" dy="1em">2</tspan></text>
+      <rect x="169" y="254" 
+         width="302"  height="342"
+         rx="10"  fill="#5b3b78" 
+         class="tile"/>
+      <text x="320"  y="425"
+         class="tile_label_white" ><tspan>animals</tspan><br /><tspan x="320" dy="1em">2</tspan></text>
+      <rect x="479" y="254" 
+         width="117"  height="123"
+         rx="10"  fill="#5b3b78" 
+         class="tile"/>
+      <text x="537"  y="315"
+         class="tile_label_white" ><tspan>fungi</tspan><br /><tspan x="537" dy="1em">0.3</tspan></text>
+      <rect x="479" y="385" 
+         width="117"  height="211"
+         rx="10"  fill="#5b3b78" 
+         class="tile"/>
+      <text x="537"  y="490"
+         class="tile_label_white" ><tspan>plants</tspan><br /><tspan x="537" dy="1em">0.5</tspan></text>
+      </g></svg>

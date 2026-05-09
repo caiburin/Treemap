@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="71.5 17.677002 400.375 121.06519" width="400.375" height="121.06519">
+  <defs/>
+  <g id="Canvas_1" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_3">
+        <g id="Graphic_34">
+          <rect x="447.75" y="74.25" width="23.625" height="23.625" fill="white"/>
+          <rect x="447.75" y="74.25" width="23.625" height="23.625" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(452.75 76.8385)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2.3645" y="15" xml:space="preserve">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_33">
+          <rect x="415.125" y="74.25" width="32.625" height="23.625" fill="white"/>
+          <rect x="415.125" y="74.25" width="32.625" height="23.625" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(420.125 76.8385)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="6.8645" y="15" xml:space="preserve">2</tspan>
+          </text>
+        </g>
+        <g id="Graphic_32">
+          <rect x="354.375" y="74.25" width="60.75" height="23.625" fill="white"/>
+          <rect x="354.375" y="74.25" width="60.75" height="23.625" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(359.375 76.8385)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="20.927" y="15" xml:space="preserve">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_5">
+          <rect x="282.375" y="74.25" width="72" height="23.625" fill="white"/>
+          <rect x="282.375" y="74.25" width="72" height="23.625" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(287.375 76.8385)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="26.552" y="15" xml:space="preserve">4</tspan>
+          </text>
+        </g>
+        <g id="Graphic_4">
+          <rect x="187.875" y="74.25" width="94.5" height="23.625" fill="white"/>
+          <rect x="187.875" y="74.25" width="94.5" height="23.625" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(192.875 76.8385)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="37.802" y="15" xml:space="preserve">5</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2">
+          <rect x="73.125" y="74.25" width="114.75" height="23.625" fill="white"/>
+          <rect x="73.125" y="74.25" width="114.75" height="23.625" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(78.125 76.8385)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="47.927" y="15" xml:space="preserve">6</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_35">
+        <line x1="72" y1="113.625" x2="279.84375" y2="113.625" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_36">
+        <rect x="180.7329" y="99.401" width="27.792" height="28.447998" fill="white"/>
+        <text transform="translate(185.7329 104.401)" fill="#5072ff">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="#5072ff" x="6394885e-19" y="15" xml:space="preserve">11</tspan>
+        </text>
+      </g>
+      <g id="Line_37">
+        <line x1="286" y1="113.625" x2="471.375" y2="113.625" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_38">
+        <rect x="381.47623" y="99.401" width="27.792" height="28.447998" fill="white"/>
+        <text transform="translate(386.47623 104.401)" fill="#5072ff">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="#5072ff" x="6394885e-19" y="15" xml:space="preserve">10</tspan>
+        </text>
+      </g>
+      <g id="Line_39">
+        <line x1="270" y1="46.125" x2="270" y2="137.74219" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,8.0" stroke-width="2"/>
+      </g>
+      <g id="Graphic_40">
+        <text transform="translate(214.25 22.677002)" fill="#5072ff">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="#5072ff" x="7247536e-19" y="15" xml:space="preserve">sum/2 = 10.5</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

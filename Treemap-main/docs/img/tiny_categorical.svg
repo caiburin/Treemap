@@ -1,0 +1,54 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+            white-space: pre-wrap; 
+    }
+    tspan { white-space: pre-wrap; }
+    .tile_label_white { fill: white;  white-space: pre-wrap; }
+    .tile_label_black { fill: black;   white-space: pre-wrap; }
+    .group_outline { stroke: red; fill: white; stroke-width: 1; }
+    .group_outline:hover { fill: red; }
+   </style>
+   </defs>
+<g class="group">
+<title>Cake</title>
+        <rect x="2" y="2" 
+        width="189"  height="396"
+        rx="5"  
+        class="group_outline" />
+        <rect x="4" y="4" 
+         width="185"  height="277"
+         rx="10"  fill="#435b45" 
+         class="tile"/>
+      <text x="96"  y="142"
+         class="tile_label_white" ><tspan>Chocolate</tspan><br /><tspan x="96" dy="1em">10</tspan></text>
+      <rect x="4" y="289" 
+         width="185"  height="107"
+         rx="10"  fill="#435b45" 
+         class="tile"/>
+      <text x="96"  y="342"
+         class="tile_label_white" ><tspan>Carrot</tspan><br /><tspan x="96" dy="1em">4</tspan></text>
+      </g><g class="group">
+<title>Ice Cream</title>
+        <rect x="195" y="2" 
+        width="203"  height="396"
+        rx="5"  
+        class="group_outline" />
+        <rect x="197" y="4" 
+         width="199"  height="258"
+         rx="10"  fill="#99bc16" 
+         class="tile"/>
+      <text x="296"  y="133"
+         class="tile_label_black" ><tspan>Vanilla</tspan><br /><tspan x="296" dy="1em">10</tspan></text>
+      <rect x="197" y="270" 
+         width="199"  height="126"
+         rx="10"  fill="#99bc16" 
+         class="tile"/>
+      <text x="296"  y="333"
+         class="tile_label_black" ><tspan>Strawberry</tspan><br /><tspan x="296" dy="1em">5</tspan></text>
+      </g></svg>

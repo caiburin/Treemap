@@ -1,0 +1,126 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+            white-space: pre-wrap; 
+    }
+    tspan { white-space: pre-wrap; }
+    .tile_label_white { fill: white;  white-space: pre-wrap; }
+    .tile_label_black { fill: black;   white-space: pre-wrap; }
+    .group_outline { stroke: red; fill: white; stroke-width: 1; }
+    .group_outline:hover { fill: red; }
+   </style>
+   </defs>
+<rect x="4" y="4" 
+         width="110"  height="55"
+         rx="10"  fill="#3c153a" 
+         class="tile"/>
+      <text x="59"  y="31"
+         class="tile_label_white" ><tspan>7</tspan></text>
+      <rect x="4" y="67" 
+         width="110"  height="74"
+         rx="10"  fill="#e8a5b3" 
+         class="tile"/>
+      <text x="59"  y="104"
+         class="tile_label_black" ><tspan>9</tspan></text>
+      <rect x="122" y="4" 
+         width="140"  height="137"
+         rx="10"  fill="#99a010" 
+         class="tile"/>
+      <text x="192"  y="72"
+         class="tile_label_black" ><tspan>20</tspan></text>
+      <rect x="4" y="149" 
+         width="125"  height="16"
+         rx="10"  fill="#e5b0fd" 
+         class="tile"/>
+      <text x="66"  y="157"
+         class="tile_label_black" ><tspan>3</tspan></text>
+      <rect x="4" y="173" 
+         width="125"  height="105"
+         rx="10"  fill="#c08d72" 
+         class="tile"/>
+      <text x="66"  y="225"
+         class="tile_label_black" ><tspan>14</tspan></text>
+      <rect x="137" y="149" 
+         width="125"  height="129"
+         rx="10"  fill="#eeef8a" 
+         class="tile"/>
+      <text x="199"  y="213"
+         class="tile_label_black" ><tspan>17</tspan></text>
+      <rect x="4" y="286" 
+         width="115"  height="210"
+         rx="10"  fill="#00cf42" 
+         class="tile"/>
+      <text x="61"  y="391"
+         class="tile_label_black" ><tspan>25</tspan></text>
+      <rect x="127" y="286" 
+         width="135"  height="210"
+         rx="10"  fill="#fcd94e" 
+         class="tile"/>
+      <text x="194"  y="391"
+         class="tile_label_black" ><tspan>29</tspan></text>
+      <rect x="270" y="4" 
+         width="56"  height="41"
+         rx="10"  fill="#7f0483" 
+         class="tile"/>
+      <text x="298"  y="24"
+         class="tile_label_white" ><tspan>3</tspan></text>
+      <rect x="270" y="53" 
+         width="56"  height="75"
+         rx="10"  fill="#cab8ad" 
+         class="tile"/>
+      <text x="298"  y="90"
+         class="tile_label_black" ><tspan>5</tspan></text>
+      <rect x="334" y="4" 
+         width="97"  height="124"
+         rx="10"  fill="#fce9a1" 
+         class="tile"/>
+      <text x="382"  y="66"
+         class="tile_label_black" ><tspan>13</tspan></text>
+      <rect x="439" y="4" 
+         width="57"  height="25"
+         rx="10"  fill="#78ed70" 
+         class="tile"/>
+      <text x="467"  y="16"
+         class="tile_label_black" ><tspan>2</tspan></text>
+      <rect x="439" y="37" 
+         width="57"  height="91"
+         rx="10"  fill="#545142" 
+         class="tile"/>
+      <text x="467"  y="82"
+         class="tile_label_white" ><tspan>6</tspan></text>
+      <rect x="270" y="136" 
+         width="104"  height="107"
+         rx="10"  fill="#273a91" 
+         class="tile"/>
+      <text x="322"  y="189"
+         class="tile_label_white" ><tspan>12</tspan></text>
+      <rect x="382" y="136" 
+         width="67"  height="107"
+         rx="10"  fill="#2b337b" 
+         class="tile"/>
+      <text x="415"  y="189"
+         class="tile_label_white" ><tspan>8</tspan></text>
+      <rect x="457" y="136" 
+         width="39"  height="107"
+         rx="10"  fill="#e99896" 
+         class="tile"/>
+      <text x="476"  y="189"
+         class="tile_label_black" ><tspan>5</tspan></text>
+      <rect x="270" y="251" 
+         width="226"  height="84"
+         rx="10"  fill="#3eeeb7" 
+         class="tile"/>
+      <text x="383"  y="293"
+         class="tile_label_black" ><tspan>20</tspan></text>
+      <rect x="270" y="343" 
+         width="226"  height="153"
+         rx="10"  fill="#97de95" 
+         class="tile"/>
+      <text x="383"  y="419"
+         class="tile_label_black" ><tspan>35</tspan></text>
+      </svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="103.88615 58.5 378.69 160.82056" width="378.69" height="160.82056">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" stroke-dasharray="none" fill-opacity="1" stroke="none" fill="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_2">
+        <line x1="145.125" y1="175.07825" x2="145.125" y2="76.08762" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_3">
+        <line x1="124.875" y1="145.125" x2="209.36953" y2="145.125" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(157.4635 150.125)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="11" xml:space="preserve">x increasing</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(150.125 143.75762) rotate(-90)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="8.124811" y="11" xml:space="preserve">y increasing </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="33.23481" y="25.336" xml:space="preserve">up</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(117.229 130.90625)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="3215206e-19" y="11" xml:space="preserve">(0,0)</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <line x1="320.35938" y1="66.187624" x2="320.35938" y2="165.17825" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_8">
+        <line x1="298.90625" y1="86.9845" x2="383.4008" y2="86.9845" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(332.0338 71.187624)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="11" xml:space="preserve">x increasing</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <text transform="translate(325.35938 170.07825) rotate(-90)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="12.897337" y="11" xml:space="preserve">y increasing </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="30.015337" y="25.336" xml:space="preserve">down</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(293.46337 71.187624)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="3215206e-19" y="11" xml:space="preserve">(0,0)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(108.88615 185.64856)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Math, physics, engineering </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="25.336" xml:space="preserve">Cartesian coordinates</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(298.23115 185.64856)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Many (not all) computer graphics </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="25.336" xml:space="preserve">coordinate systems</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

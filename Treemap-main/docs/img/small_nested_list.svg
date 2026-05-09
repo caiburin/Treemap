@@ -1,0 +1,45 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+    }
+    .tile_label_white { fill: white; }
+    .tile_label_black { fill: black;  }
+    .group_outline { stroke: red; fill: none; stroke-width: 4; }
+   </style>
+   </defs>
+<rect x="4" y="319" 
+         width="315"  height="77"
+         rx="10"  fill="#a8f1b5" 
+         class="tile"/>
+      <text x="161"  y="357"
+         class="tile_label_black" > 3 </text>
+      <rect x="4" y="4" 
+         width="256"  height="307"
+         rx="10"  fill="#241716" 
+         class="tile"/>
+      <text x="132"  y="157"
+         class="tile_label_white" > 9 </text>
+      <rect x="268" y="4" 
+         width="51"  height="307"
+         rx="10"  fill="#2b01c7" 
+         class="tile"/>
+      <text x="293"  y="157"
+         class="tile_label_white" > 2 </text>
+      <rect x="327" y="271" 
+         width="269"  height="125"
+         rx="10"  fill="#b1d9d4" 
+         class="tile"/>
+      <text x="461"  y="333"
+         class="tile_label_black" > 4 </text>
+      <rect x="327" y="4" 
+         width="269"  height="259"
+         rx="10"  fill="#1bf535" 
+         class="tile"/>
+      <text x="461"  y="133"
+         class="tile_label_black" > 8 </text>
+      </svg>

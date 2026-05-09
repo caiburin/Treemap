@@ -1,0 +1,48 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+            white-space: pre-wrap; 
+    }
+    tspan { white-space: pre-wrap; }
+    .tile_label_white { fill: white;  white-space: pre-wrap; }
+    .tile_label_black { fill: black;   white-space: pre-wrap; }
+    .group_outline { stroke: red; fill: white; stroke-width: 1; }
+    .group_outline:hover { fill: red; }
+   </style>
+   </defs>
+<rect x="4" y="4" 
+         width="222"  height="117"
+         rx="10"  fill="#f030fb" 
+         class="tile"/>
+      <text x="115"  y="62"
+         class="tile_label_black" ><tspan>3</tspan></text>
+      <rect x="4" y="129" 
+         width="222"  height="367"
+         rx="10"  fill="#a5163d" 
+         class="tile"/>
+      <text x="115"  y="312"
+         class="tile_label_white" ><tspan>9</tspan></text>
+      <rect x="234" y="4" 
+         width="82"  height="206"
+         rx="10"  fill="#0ddefe" 
+         class="tile"/>
+      <text x="275"  y="107"
+         class="tile_label_black" ><tspan>2</tspan></text>
+      <rect x="324" y="4" 
+         width="172"  height="206"
+         rx="10"  fill="#ae7ad2" 
+         class="tile"/>
+      <text x="410"  y="107"
+         class="tile_label_black" ><tspan>4</tspan></text>
+      <rect x="234" y="218" 
+         width="262"  height="278"
+         rx="10"  fill="#e6cbee" 
+         class="tile"/>
+      <text x="365"  y="357"
+         class="tile_label_black" ><tspan>8</tspan></text>
+      </svg>

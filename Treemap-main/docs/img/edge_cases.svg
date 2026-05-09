@@ -1,0 +1,54 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+            white-space: pre-wrap; 
+    }
+    tspan { white-space: pre-wrap; }
+    .tile_label_white { fill: white;  white-space: pre-wrap; }
+    .tile_label_black { fill: black;   white-space: pre-wrap; }
+    .group_outline { stroke: red; fill: white; stroke-width: 1; }
+    .group_outline:hover { fill: red; }
+   </style>
+   </defs>
+<rect x="4" y="4" 
+         width="92"  height="292"
+         rx="10"  fill="#4826a1" 
+         class="tile"/>
+      <text x="50"  y="150"
+         class="tile_label_white" ><tspan>5</tspan></text>
+      <g class="group">
+<title>Unexpected values</title>
+        <rect x="102" y="2" 
+        width="196"  height="296"
+        rx="5"  
+        class="group_outline" />
+        <g class="group">
+<title>Unlabeled nested lists</title>
+        <rect x="102" y="2" 
+        width="196"  height="296"
+        rx="5"  
+        class="group_outline" />
+        <rect x="104" y="4" 
+         width="192"  height="142"
+         rx="10"  fill="#9fcbba" 
+         class="tile"/>
+      <text x="200"  y="75"
+         class="tile_label_black" ><tspan>5</tspan></text>
+      <rect x="104" y="154" 
+         width="192"  height="82"
+         rx="10"  fill="#9fcbba" 
+         class="tile"/>
+      <text x="200"  y="195"
+         class="tile_label_black" ><tspan>3</tspan></text>
+      <rect x="104" y="244" 
+         width="192"  height="52"
+         rx="10"  fill="#9fcbba" 
+         class="tile"/>
+      <text x="200"  y="270"
+         class="tile_label_black" ><tspan>2</tspan></text>
+      </g></g></svg>

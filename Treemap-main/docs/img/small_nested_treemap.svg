@@ -1,0 +1,46 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+    }
+    .tile_label_white { fill: white; }
+    .tile_label_black { fill: black;  }
+    .group_outline { stroke: red; fill: none; stroke-width: 4; }
+    .group_outline:hover { fill: yellow; }
+   </style>
+   </defs>
+<rect x="4" y="4" 
+         width="207"  height="77"
+         rx="10"  fill="#7d3d52" 
+         class="tile"/>
+      <text x="107"  y="42"
+         class="tile_label_white" > 3 </text>
+      <rect x="4" y="89" 
+         width="207"  height="249"
+         rx="10"  fill="#61f6d8" 
+         class="tile"/>
+      <text x="107"  y="213"
+         class="tile_label_black" > 9 </text>
+      <rect x="4" y="346" 
+         width="207"  height="50"
+         rx="10"  fill="#aaf285" 
+         class="tile"/>
+      <text x="107"  y="371"
+         class="tile_label_black" > 2 </text>
+      <rect x="219" y="4" 
+         width="177"  height="125"
+         rx="10"  fill="#433b6c" 
+         class="tile"/>
+      <text x="307"  y="66"
+         class="tile_label_white" > 4 </text>
+      <rect x="219" y="137" 
+         width="177"  height="259"
+         rx="10"  fill="#0bef1e" 
+         class="tile"/>
+      <text x="307"  y="266"
+         class="tile_label_black" > 8 </text>
+      </svg>

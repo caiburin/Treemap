@@ -1,0 +1,49 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+    }
+    .tile_label_white { fill: white; }
+    .tile_label_black { fill: black;  }
+    .group_outline { stroke: red; fill: none; stroke-width: 4; }
+   </style>
+   </defs>
+<rect x="4" y="4" 
+         width="386"  height="442"
+         rx="10"  fill="#dfa989" 
+         class="tile"/>
+      <text x="197"  y="225"
+         class="tile_label_black" > Tuition: 15669 </text>
+      <rect x="398" y="4" 
+         width="391"  height="442"
+         rx="10"  fill="#b494a2" 
+         class="tile"/>
+      <text x="593"  y="225"
+         class="tile_label_black" > Housing: 15840 </text>
+      <rect x="2" y="2" 
+         width="789"  height="446"
+         rx="10"  fill="None" 
+         class="group_outline"/>
+      <rect x="797" y="313" 
+         width="99"  height="133"
+         rx="10"  fill="#44fc0b" 
+         class="tile"/>
+      <text x="846"  y="379"
+         class="tile_label_black" > Books: 1320 </text>
+      <rect x="797" y="51" 
+         width="99"  height="254"
+         rx="10"  fill="#55f28e" 
+         class="tile"/>
+      <text x="846"  y="178"
+         class="tile_label_black" > Personal: 2460 </text>
+      <rect x="797" y="4" 
+         width="99"  height="39"
+         rx="10"  fill="#82db46" 
+         class="tile"/>
+      <text x="846"  y="23"
+         class="tile_label_black" > Transportation: 432 </text>
+      </svg>
